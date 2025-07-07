@@ -1,0 +1,83 @@
+# Network Fundamentals - Complete Study Guide
+
+## Table of Contents
+1. Introduction to Computer Networks
+2. OSI Model Deep Dive
+3. TCP/IP Protocol Suite
+4. Network Topologies
+5. Routing and Switching
+6. Network Security Basics
+7. Troubleshooting Methodologies
+
+## Chapter 1: Introduction to Computer Networks
+
+### What is a Computer Network?
+A computer network is a collection of interconnected devices that can communicate and share resources with each other. These devices include computers, servers, routers, switches, and other networking equipment.
+
+### Types of Networks
+- **LAN (Local Area Network)**: Networks within a limited geographical area
+- **WAN (Wide Area Network)**: Networks spanning large geographical areas
+- **MAN (Metropolitan Area Network)**: Networks covering a city or metropolitan area
+- **PAN (Personal Area Network)**: Networks for personal devices
+
+### Network Components
+- **Nodes**: Any device connected to the network
+- **Links**: Physical or logical connections between nodes
+- **Protocols**: Rules governing communication
+- **Services**: Applications and resources available on the network
+
+## Chapter 2: OSI Model Deep Dive
+
+### The Seven Layers
+1. **Physical Layer**: Deals with physical transmission of data
+2. **Data Link Layer**: Provides error detection and correction
+3. **Network Layer**: Handles routing and logical addressing
+4. **Transport Layer**: Ensures reliable data delivery
+5. **Session Layer**: Manages communication sessions
+6. **Presentation Layer**: Handles data formatting and encryption
+7. **Application Layer**: Provides network services to applications
+
+### Layer Functions and Protocols
+Each layer has specific functions and associated protocols that enable network communication.
+
+## Chapter 3: TCP/IP Protocol Suite
+
+### Internet Protocol (IP)
+- IPv4 addressing and subnetting
+- IPv6 implementation and benefits
+- CIDR notation and VLSM
+
+### Transmission Control Protocol (TCP)
+- Connection-oriented communication
+- Reliable data delivery
+- Flow control and congestion management
+
+### User Datagram Protocol (UDP)
+- Connectionless communication
+- Fast but unreliable delivery
+- Use cases and applications
+
+## Chapter 4: Network Security Fundamentals
+
+### Security Principles
+- Confidentiality, Integrity, Availability (CIA Triad)
+- Authentication and Authorization
+- Non-repudiation
+
+### Common Threats
+- Malware and viruses
+- Phishing attacks
+- Man-in-the-middle attacks
+- DDoS attacks
+
+### Security Measures
+- Firewalls and intrusion detection systems
+- Encryption and VPNs
+- Access control and monitoring
+
+---
+
+*This is a comprehensive study guide covering fundamental networking concepts essential for cybersecurity professionals.*
+
+**Cyber Knight Learning Platform**
+*Defending the Digital Frontier*
